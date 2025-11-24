@@ -7,10 +7,10 @@ class Elemento
 }
 class Lista
 {
-    public Elemento inicio;
-    public Elemento fim;
-    public Elemento ant;
-    public Elemento aux;
+    private Elemento inicio;
+    private Elemento fim;
+    private Elemento ant;
+    private Elemento aux;
     public Lista()
     {
         inicio = null;
@@ -24,7 +24,6 @@ class Lista
         {
             inicio = novo;
             fim = novo;
-            fim.prox = null;
         }
         else
         {
@@ -50,11 +49,14 @@ class Lista
     }
     public void MostraLista()
     {
+        Console.Clear();
+        aux = inicio;
         while (aux != null)
         {
-            System.Console.Write($"{aux}\t");
+            System.Console.Write($"{aux.num}\t");
             aux = aux.prox;
         }
+        System.Console.WriteLine("");
     }
 }
 class Program
@@ -62,10 +64,10 @@ class Program
     static void Main()
     {
         Lista minhaLista = new Lista();
-        string resp = "";
+        int resp = 1000;
         int op, num;
 
-        while (resp != "s")
+        while (resp != 0)
         {
             System.Console.WriteLine("1 - Inserir Inicio\n2 - Inserir Fim\n3 - Mostrar Lista");
             op = int.Parse(Console.ReadLine());
@@ -83,6 +85,9 @@ class Program
                     break;
                 case 3:
                     minhaLista.MostraLista();
+                    break;
+                default:
+                    System.Console.WriteLine("Insira uma opção válida");
                     break;
             }
         }
