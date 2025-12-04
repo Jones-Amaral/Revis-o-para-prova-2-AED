@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Ponteiro\dup enc. ord\bin\Debug\net6.0\dup enc. ord.exe
+C:\Users\user\Desktop\Ponteiro\dup enc. ord\bin\Debug\net6.0\dup enc. ord.deps.json
+C:\Users\user\Desktop\Ponteiro\dup enc. ord\bin\Debug\net6.0\dup enc. ord.runtimeconfig.json
+C:\Users\user\Desktop\Ponteiro\dup enc. ord\bin\Debug\net6.0\dup enc. ord.dll
+C:\Users\user\Desktop\Ponteiro\dup enc. ord\bin\Debug\net6.0\dup enc. ord.pdb
+C:\Users\user\Desktop\Ponteiro\dup enc. ord\obj\Debug\net6.0\dup enc. ord.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Ponteiro\dup enc. ord\obj\Debug\net6.0\dup enc. ord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Ponteiro\dup enc. ord\obj\Debug\net6.0\dup enc. ord.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Ponteiro\dup enc. ord\obj\Debug\net6.0\dup enc. ord.AssemblyInfo.cs
+C:\Users\user\Desktop\Ponteiro\dup enc. ord\obj\Debug\net6.0\dup enc. ord.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Ponteiro\dup enc. ord\obj\Debug\net6.0\dup enc. ord.dll
+C:\Users\user\Desktop\Ponteiro\dup enc. ord\obj\Debug\net6.0\refint\dup enc. ord.dll
+C:\Users\user\Desktop\Ponteiro\dup enc. ord\obj\Debug\net6.0\dup enc. ord.pdb
+C:\Users\user\Desktop\Ponteiro\dup enc. ord\obj\Debug\net6.0\dup enc. ord.genruntimeconfig.cache
+C:\Users\user\Desktop\Ponteiro\dup enc. ord\obj\Debug\net6.0\ref\dup enc. ord.dll
