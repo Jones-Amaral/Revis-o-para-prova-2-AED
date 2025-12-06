@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Ponteiro\\dup enc. ord\\dup enc. ord.csproj": {}
+    "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Revisão Prova\\Revis-o-para-prova-2-AED\\Ponteiro\\dup enc. ord\\dup enc. ord.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Ponteiro\\dup enc. ord\\dup enc. ord.csproj": {
+    "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Revisão Prova\\Revis-o-para-prova-2-AED\\Ponteiro\\dup enc. ord\\dup enc. ord.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Ponteiro\\dup enc. ord\\dup enc. ord.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Revisão Prova\\Revis-o-para-prova-2-AED\\Ponteiro\\dup enc. ord\\dup enc. ord.csproj",
         "projectName": "dup enc. ord",
-        "projectPath": "C:\\Users\\user\\Desktop\\Ponteiro\\dup enc. ord\\dup enc. ord.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Revisão Prova\\Revis-o-para-prova-2-AED\\Ponteiro\\dup enc. ord\\dup enc. ord.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Ponteiro\\dup enc. ord\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Revisão Prova\\Revis-o-para-prova-2-AED\\Ponteiro\\dup enc. ord\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
